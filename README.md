@@ -37,6 +37,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0577-employee-bonus) |
