@@ -1,0 +1,2 @@
+/* Write your T-SQL query statement below */
+select u.unique_id,e.name from employees as e left join employeeUni as u on e.id=u.id
