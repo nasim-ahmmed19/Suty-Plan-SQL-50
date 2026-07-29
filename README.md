@@ -45,6 +45,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 | [1258-article-views-i](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/2087-confirmation-rate) |
