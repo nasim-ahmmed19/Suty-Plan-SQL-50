@@ -37,5 +37,6 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
