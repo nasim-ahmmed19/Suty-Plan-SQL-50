@@ -43,6 +43,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 | [0595-big-countries](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0595-big-countries) |
 | [1153-product-sales-analysis-i](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1258-article-views-i) |
+| [1338-queries-quality-and-percentage](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1773-percentage-of-users-attended-a-contest) |
