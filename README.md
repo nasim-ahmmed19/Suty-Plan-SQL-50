@@ -31,3 +31,11 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 
 ---
 *Happy Querying! 🎯*
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1908-recyclable-and-low-fat-products) |
+<!---LeetCode Topics End-->
