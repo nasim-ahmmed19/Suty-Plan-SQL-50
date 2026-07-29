@@ -42,6 +42,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 | [0577-employee-bonus](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/0619-biggest-single-number) |
 | [1153-product-sales-analysis-i](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1153-product-sales-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1182-game-play-analysis-iv) |
