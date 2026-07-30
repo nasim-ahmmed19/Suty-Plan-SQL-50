@@ -4,6 +4,14 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 
 ---
 
+## 🏆 Official Achievement Badge
+
+<p align="center">
+  <img src="sql_50.png" alt="LeetCode SQL 50 Badge" width="400"/>
+</p>
+
+---
+
 ## 📌 Repository Overview
 
 * **Database Engine:** MS SQL Server (T-SQL)
@@ -28,6 +36,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 
 * **MD Nasim Ahmmed**
 * GitHub: [@nasim-ahmmed19](https://github.com/nasim-ahmmed19)
+* LeetCode: [@1c3tp6uqzW](https://leetcode.com/u/1c3tp6uqzW/)
 
 ---
 *Happy Querying! 🎯*
