@@ -59,6 +59,7 @@ Welcome to my repository for the **LeetCode SQL 50 Study Plan**! This repository
 | [1390-average-selling-price](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1390-average-selling-price) |
 | [1452-restaurant-growth](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1452-restaurant-growth) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/nasim-ahmmed19/Suty-Plan-SQL-50/tree/master/1827-invalid-tweets) |
